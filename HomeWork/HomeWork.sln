@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SalesTax", "SalesTax\SalesTax.vcxproj", "{399FD518-9DA5-4A1C-A042-2E371804656A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CelciusToFahrenheit", "CelciusToFahrenheit\CelciusToFahrenheit.vcxproj", "{80F2D408-48D2-49B1-9F45-3A39C1A59ABC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TotalWithDiscount", "TotalWithDiscount\TotalWithDiscount.vcxproj", "{0B651838-3EDD-46B2-B801-951C21D237F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BodyMassIndex", "BodyMassIndex\BodyMassIndex.vcxproj", "{B7F2437B-088B-4C81-95E2-CE8502F84174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399FD518-9DA5-4A1C-A042-2E371804656A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{399FD518-9DA5-4A1C-A042-2E371804656A}.Debug|Win32.Build.0 = Debug|Win32
+		{399FD518-9DA5-4A1C-A042-2E371804656A}.Release|Win32.ActiveCfg = Release|Win32
+		{399FD518-9DA5-4A1C-A042-2E371804656A}.Release|Win32.Build.0 = Release|Win32
+		{80F2D408-48D2-49B1-9F45-3A39C1A59ABC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80F2D408-48D2-49B1-9F45-3A39C1A59ABC}.Debug|Win32.Build.0 = Debug|Win32
+		{80F2D408-48D2-49B1-9F45-3A39C1A59ABC}.Release|Win32.ActiveCfg = Release|Win32
+		{80F2D408-48D2-49B1-9F45-3A39C1A59ABC}.Release|Win32.Build.0 = Release|Win32
+		{0B651838-3EDD-46B2-B801-951C21D237F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B651838-3EDD-46B2-B801-951C21D237F5}.Debug|Win32.Build.0 = Debug|Win32
+		{0B651838-3EDD-46B2-B801-951C21D237F5}.Release|Win32.ActiveCfg = Release|Win32
+		{0B651838-3EDD-46B2-B801-951C21D237F5}.Release|Win32.Build.0 = Release|Win32
+		{B7F2437B-088B-4C81-95E2-CE8502F84174}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7F2437B-088B-4C81-95E2-CE8502F84174}.Debug|Win32.Build.0 = Debug|Win32
+		{B7F2437B-088B-4C81-95E2-CE8502F84174}.Release|Win32.ActiveCfg = Release|Win32
+		{B7F2437B-088B-4C81-95E2-CE8502F84174}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
