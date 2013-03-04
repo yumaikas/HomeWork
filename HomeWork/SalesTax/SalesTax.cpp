@@ -21,11 +21,11 @@ double getPurchase(){
 	double purchase_amount; 
 	cout << "How much did you spend? ";
 	cin >> purchase_amount; 
-	return purchase_amount
+	return purchase_amount;
 }
 
 int main() {
-	
+	double purchase_amount = getPurchase();
 	//Calculate the tax totals
 	double state_tax = purchase_amount * 0.04;
 	double county_tax = purchase_amount * 0.02;
