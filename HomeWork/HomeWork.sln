@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DollarGame", "DollarGame\Do
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftwareSalesDiscount", "SoftwareSalesDiscount\SoftwareSalesDiscount.vcxproj", "{94BB351C-8904-4DCE-AEB6-E4D5219279D7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SerendipityBookSellers", "SerendipityBookSellers\SerendipityBookSellers.vcxproj", "{2FDED36E-709C-4508-AD44-AE0C51944995}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{94BB351C-8904-4DCE-AEB6-E4D5219279D7}.Debug|Win32.Build.0 = Debug|Win32
 		{94BB351C-8904-4DCE-AEB6-E4D5219279D7}.Release|Win32.ActiveCfg = Release|Win32
 		{94BB351C-8904-4DCE-AEB6-E4D5219279D7}.Release|Win32.Build.0 = Release|Win32
+		{2FDED36E-709C-4508-AD44-AE0C51944995}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FDED36E-709C-4508-AD44-AE0C51944995}.Debug|Win32.Build.0 = Debug|Win32
+		{2FDED36E-709C-4508-AD44-AE0C51944995}.Release|Win32.ActiveCfg = Release|Win32
+		{2FDED36E-709C-4508-AD44-AE0C51944995}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
