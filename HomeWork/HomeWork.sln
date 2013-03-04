@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TotalWithDiscount", "TotalW
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BodyMassIndex", "BodyMassIndex\BodyMassIndex.vcxproj", "{B7F2437B-088B-4C81-95E2-CE8502F84174}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DollarGame", "DollarGame\DollarGame.vcxproj", "{BF910FEC-4CF9-4DA5-B9B2-3792204C55C0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftwareSalesDiscount", "SoftwareSalesDiscount\SoftwareSalesDiscount.vcxproj", "{94BB351C-8904-4DCE-AEB6-E4D5219279D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +35,14 @@ Global
 		{B7F2437B-088B-4C81-95E2-CE8502F84174}.Debug|Win32.Build.0 = Debug|Win32
 		{B7F2437B-088B-4C81-95E2-CE8502F84174}.Release|Win32.ActiveCfg = Release|Win32
 		{B7F2437B-088B-4C81-95E2-CE8502F84174}.Release|Win32.Build.0 = Release|Win32
+		{BF910FEC-4CF9-4DA5-B9B2-3792204C55C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF910FEC-4CF9-4DA5-B9B2-3792204C55C0}.Debug|Win32.Build.0 = Debug|Win32
+		{BF910FEC-4CF9-4DA5-B9B2-3792204C55C0}.Release|Win32.ActiveCfg = Release|Win32
+		{BF910FEC-4CF9-4DA5-B9B2-3792204C55C0}.Release|Win32.Build.0 = Release|Win32
+		{94BB351C-8904-4DCE-AEB6-E4D5219279D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94BB351C-8904-4DCE-AEB6-E4D5219279D7}.Debug|Win32.Build.0 = Debug|Win32
+		{94BB351C-8904-4DCE-AEB6-E4D5219279D7}.Release|Win32.ActiveCfg = Release|Win32
+		{94BB351C-8904-4DCE-AEB6-E4D5219279D7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
