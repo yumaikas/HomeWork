@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{45CA9861-8E66-4CAD-A76D-BF07B68FDD16}</ProjectGuid>
-    <RootNamespace>Factorial</RootNamespace>
+    <ProjectGuid>{076BE8D1-032C-4A34-BBF5-89F65238C291}</ProjectGuid>
+    <RootNamespace>CtoF_Table</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -62,7 +62,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Factorial.cpp" />
+    <ClCompile Include="CtoFwithTable.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

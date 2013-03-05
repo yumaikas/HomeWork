@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Factorial.cpp">
+    <ClCompile Include="CtoFwithTable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
