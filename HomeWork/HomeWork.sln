@@ -23,6 +23,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CtoF_Table", "CtoF_Table\Ct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DistanceTraveled", "DistanceTraveled\DistanceTraveled.vcxproj", "{D60504C9-D231-4B88-A21F-0AA88555E1FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PropertyTax", "PropertyTax\PropertyTax.vcxproj", "{F962EAB6-99BD-4F5F-A125-A6C5E7D1F061}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PaintJobEstimator", "PaintJobEstimator\PaintJobEstimator.vcxproj", "{6C75832E-B387-4EFD-83CE-B46FB271F8BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -73,6 +77,14 @@ Global
 		{D60504C9-D231-4B88-A21F-0AA88555E1FD}.Debug|Win32.Build.0 = Debug|Win32
 		{D60504C9-D231-4B88-A21F-0AA88555E1FD}.Release|Win32.ActiveCfg = Release|Win32
 		{D60504C9-D231-4B88-A21F-0AA88555E1FD}.Release|Win32.Build.0 = Release|Win32
+		{F962EAB6-99BD-4F5F-A125-A6C5E7D1F061}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F962EAB6-99BD-4F5F-A125-A6C5E7D1F061}.Debug|Win32.Build.0 = Debug|Win32
+		{F962EAB6-99BD-4F5F-A125-A6C5E7D1F061}.Release|Win32.ActiveCfg = Release|Win32
+		{F962EAB6-99BD-4F5F-A125-A6C5E7D1F061}.Release|Win32.Build.0 = Release|Win32
+		{6C75832E-B387-4EFD-83CE-B46FB271F8BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C75832E-B387-4EFD-83CE-B46FB271F8BD}.Debug|Win32.Build.0 = Debug|Win32
+		{6C75832E-B387-4EFD-83CE-B46FB271F8BD}.Release|Win32.ActiveCfg = Release|Win32
+		{6C75832E-B387-4EFD-83CE-B46FB271F8BD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
