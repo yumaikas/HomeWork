@@ -1,7 +1,7 @@
 /*
 *Created for professor Jeniffer Cohen
 *by Andrew Owen (yumaikas)
-*This program calculates a discount. 
+*This program estmates a paint job for a client with large square footage needs.  
 */
 #include <iostream>
 #include <string>
